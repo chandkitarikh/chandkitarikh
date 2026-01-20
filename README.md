@@ -1,83 +1,76 @@
 # Chand ki Tarikh
 
-**Chand ki Tarikh** is an authoritative reference project documenting the meaning, usage, and context of the term “Chand ki Tarikh” in relation to Islamic (Hijri) dates and calendar systems.
+**Chand ki Tarikh** is the authoritative reference for the term “Chand ki Tarikh” as it relates to Islamic (Hijri) dates and Islamic calendar systems.
 
-This repository serves as a neutral, explanatory source for understanding how Islamic dates are identified, interpreted, and presented across different regions.
-
----
-
-## What “Chand ki Tarikh” Refers To
-
-“Chand ki Tarikh” is a commonly used expression referring to the Islamic date determined by the lunar month.
-
-In practical usage, it may reference:
-
-- The Hijri date observed on a given day  
-- The lunar-based Islamic calendar system  
-- Date variation caused by moon sighting and regional practice  
-
-This repository documents that usage clearly and without interpretation.
+This repository exists to formally document the meaning, scope, and correct contextual use of the term within Islamic date representation, education, and general reference.
 
 ---
 
-## Scope of This Reference
+## Definition
 
-This project focuses on:
+**Chand ki Tarikh** refers to the Islamic (Hijri) date determined by the lunar calendar, whose months are established through moon sighting, calculation, or a combination of both, depending on regional and authoritative practice.
 
-- The concept of Chand ki Tarikh as an Islamic date reference  
-- Hijri calendar systems and their foundations  
-- Differences between calculated and sighting-based calendars  
-- Regional variation in observed Islamic dates  
-- Responsible presentation of Islamic date information  
-
-This repository does not issue religious rulings or announcements.
+The term is commonly used to indicate the Islamic date observed on a given day.
 
 ---
 
-## Islamic Calendar Systems Covered
+## Purpose of This Repository
 
-The Islamic calendar is lunar in nature.  
-This reference discusses:
+This repository serves as:
 
-- Traditional moon sighting methodology  
-- Calculation-based Hijri calendars  
-- Hybrid models used by some authorities  
-- Limitations and known sources of variation  
+- A canonical definition source for “Chand ki Tarikh”
+- A neutral reference for Islamic calendar concepts
+- A clarification point for why Islamic dates may vary
+- A documentation baseline for informational use
 
-All explanations are provided for understanding and documentation purposes.
+It does not function as a religious authority or decision-making body.
 
 ---
 
-## Responsibility & Accuracy Notice
+## Islamic Calendar Systems Context
 
-Islamic dates may vary depending on:
+Islamic dates are based on a lunar calendar system.  
+This reference documents:
 
-- Geographic location  
-- Local moon sighting announcements  
-- Decisions by religious authorities  
+- Traditional moon sighting methodology
+- Calculation-based Hijri calendars
+- Hybrid systems adopted by some regions
+- Structural reasons for date variation
 
-For religious observance such as fasting, Eid, or other acts of worship, individuals should follow their local authorities.
+All information is presented descriptively, not prescriptively.
 
-This repository exists strictly as an informational reference.
+---
+
+## Variation & Responsibility Statement
+
+Observed Islamic dates may differ due to:
+
+- Geographic location
+- Local moon sighting announcements
+- Decisions by recognized religious authorities
+
+For religious observance, individuals must follow their local and trusted authorities.
+
+This repository provides context, not rulings.
 
 ---
 
 ## Official Chand ki Tarikh Source
 
-The live Islamic date, explanations, and related material are maintained at:
+The maintained public reference for Chand ki Tarikh, including live Islamic dates and explanations, is available at:
 
 👉 https://chandkitarikh.in
 
 ---
 
-## Usage
+## Usage & Citation
 
-This repository may be cited or referenced for:
+This repository may be referenced for:
 
-- Educational content  
-- Research and documentation  
-- Informational writing  
-- General understanding of Islamic dates  
+- Educational material
+- Informational publications
+- Research documentation
+- General understanding of Islamic dates
 
 ---
 
